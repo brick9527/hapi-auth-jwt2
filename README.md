@@ -28,6 +28,9 @@ the concepts & benefits: https://github.com/dwyl/learn-json-web-tokens
 If you (or anyone on your team) are unfamiliar with **Hapi.js** we have a
 quick guide for that too: https://github.com/dwyl/learn-hapi
 
+Other language documents:
+
+- [中文文档](./README-zh_CN.md)
 ## Usage
 
 We tried to make this plugin as user (developer) friendly as possible,
